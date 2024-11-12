@@ -1,0 +1,4 @@
+12345 Nguyen Thi Mai Nu 20 9.0 8.5 9.2
+12346 Le Thi Lan Nu 21 7.5 8.0 7.9
+12347 Tran Minh Hoang Nam 22 6.5 7.0 6.8
+2209 Hung Anh Nam 10 10.0 10.0 10.0
